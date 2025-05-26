@@ -312,6 +312,7 @@ button:active {
 
 .copy-btn:hover {
     color: var(--accent-hover);
+    color: #fff;
 }
 
 .copy-btn svg {
